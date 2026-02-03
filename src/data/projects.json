@@ -1,0 +1,23 @@
+[
+  {
+    "title": "Illustrations and Graphic Designs",
+    "imageSrc": "projects/green deadlock.png",
+    "description": "I have completed illustrations and graphic designs for various clients, including logos, posters, and social media graphics.",
+    "skills": ["Graphic Design", "Illustration", "Adobe Suite"],
+    "source": "https://nahobeanie.tumblr.com/"
+  },
+  {
+    "title": "Pizza Website",
+    "imageSrc": "projects/pizza.png",
+    "description": "This  website was made with a primary focus on user navigation and adding various interactive animations.",
+    "skills": ["HTML", "CSS", "JavaScript"],
+    "source": "https://alee100931.github.io/Pizza/"
+  },
+  {
+    "title": "Python Projects",
+    "imageSrc": "projects/python.jpg",
+    "description": "This leads to a repository of scripts written with Python to complete various mundane tasks.",
+    "skills": ["Python", "Scripting", "Automation"],
+    "source": "https://github.com/alee100931/Python-Scripts/tree/main"
+  }
+]

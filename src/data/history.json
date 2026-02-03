@@ -1,0 +1,38 @@
+[
+  {
+    "role": "CTE Teacher",
+    "organization": "TCISD",
+    "startDate": "May, 2024",
+    "endDate": "Present",
+    "experiences": ["Instruction on coding, data analysis and management, and system operation", "Raised 5k funds for robotics program through grant writing."],
+    "imageSrc": "history/tcisd.png"
+  },
+  {
+    "role": "CTE teacher",
+    "organization": "Odyssey Academy",
+    "startDate": "May, 2023",
+    "endDate": "May, 2024",
+    "experiences": ["Coordinated with IT team to mass deploy launch 100+ programs for 7-8th grades", "Developed Business Information Management course for 7th-8th graders"],
+    "imageSrc": "history/ody.jpg"
+  },
+	 {
+    "role": "CTE teacher",
+    "organization": "GISD",
+    "startDate": "Aug, 2021",
+    "endDate": "May, 2023",
+    "experiences": ["Led professional development for all staff on device management software", "Instruction on Microsoft Office Suite, Google Workspace, and coding"],
+    "imageSrc": "history/GISD.png"
+  },
+  {
+    "role": "Librarian Assistant",
+    "organization": "Rosenberg Library",
+    "startDate": "Aug, 2016",
+    "endDate": "Aug, 2021",
+    "experiences": [
+      "Managed library catalogue with SQL within Horizon",
+      "Designed graphics for print and digital advertisements",
+			"Communicated with schools for marketing opportunities and research events"
+    ],
+    "imageSrc": "history/rl.png"
+  }
+]
